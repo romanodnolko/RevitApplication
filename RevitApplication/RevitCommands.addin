@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>RevitApplication</Name>
+		<Assembly>RevitApplication.dll</Assembly>
+		<AddInId>
+			B485DC65-4EA8-407B-98A5-1F4EE2EB0F3D
+		</AddInId>
+		<FullClassName>RevitApplication.RebarApplication</FullClassName>
+		<VendorId>Jeremy</VendorId>
+		<VendorDescription>@Learndynamo</VendorDescription>
+	</AddIn>
+</RevitAddIns>
